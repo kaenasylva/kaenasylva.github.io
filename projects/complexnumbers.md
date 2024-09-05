@@ -32,5 +32,3 @@ friend ostream &operator<<(ostream &out, Complex &complexParam){
 ```
 
 This project taught me to understand how to overload operators, work with calculations involving imaginary numbers, and furthered my understanding in C++.
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
