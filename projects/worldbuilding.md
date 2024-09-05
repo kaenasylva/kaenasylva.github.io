@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/3dshapes.jpg
+image: img/d20.jpg
 title: "Worldbuilding"
 date: 2016 - Present
 published: true
