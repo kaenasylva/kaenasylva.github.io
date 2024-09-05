@@ -13,12 +13,12 @@ summary: "A code I developed for ICS 212 that calculates the area, surface area,
 
 The goal of this project was to create a program that calculates the area, surface area, and volume (if applicable) of a shape chosen by a user. The code displays a list of shapes to choose from - Sphere, Cylinder, Square, Cube, Triangle, and Tetrahedron - and takes an input based on the previous choice - Side, Radius, or Height - and calculates the area, surface area, and/or volume of the desired shape.
 
-I built this code during the 2023-24 school year for my ICS 212 class. This code built upon a previous assignment, adding the options to caluclate the dimensions of 3D shapes including a sphere, cylinder, cube, and tetrahedron. This project focused was focused on object inheritance, where the 3D objects inherited traits from the 2D objects such as the radius or the length of a side.
+I built this code during the 2023-24 school year for my ICS 212 class. This code was built upon a previous assignment, adding the options to caluculate the dimensions of 3D shapes including a sphere, cylinder, cube, and tetrahedron. This project focused on object inheritance, where the 3D objects inherited traits from the 2D objects such as the radius or the length of a side.
 
 Here is some code from the project that demonstrates inherited traits:
 
 ```cpp
-// sphere inheritcs the radius of circle
+// sphere inherits the radius of circle
 class Sphere : public Circle {
 public:
   Sphere(double r = 0.0): Circle(r) {
@@ -40,7 +40,7 @@ public:
     side = s;
   }
 }
-// tetrahedron inherts the side length of triangle
+// tetrahedron inherits the side length of triangle
 class Tetrahedron : public Triangle {
 public:
   Tetrahedron(double s = 0.0) : Triangle(s) {
