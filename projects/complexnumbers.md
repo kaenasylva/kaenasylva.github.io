@@ -12,7 +12,7 @@ labels:
 summary: "A code I developed for ICS 212 that calculates and correctly formats complex numbers."
 ---
 
-The goal of this project was to create a class called "Complex" that is capable of calculating and correctly formating complex numbers based on a user input. It utilized various member functions and overloaded operators in C++.
+The goal of this project was to create a class called "Complex" that is capable of calculating and correctly formatting complex numbers based on a user input. It utilized various member functions and overloaded operators in C++.
 
 I built this code during the 2023-24 school year for my ICS 212 class. This code originated with a previous assignment that was designed to calculate complex numbers. The original program could calculate complex numbers based on pre-determined inputs to a function. The current version of the code differs from the former in that it can take user inputs and implements overloaded operators to create complex objects with cin and cout.
 
