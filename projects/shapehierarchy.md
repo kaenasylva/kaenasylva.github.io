@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/calculator-button.jpg
+image: img/3dshapes.jpg
 title: "Shape Class Hierarchy"
 date: 2023-12-05
 published: true
