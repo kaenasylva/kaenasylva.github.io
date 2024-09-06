@@ -263,7 +263,7 @@ int main() {
   Shape *shapeArray[NUM];
   shapeArray[0] = new Circle();
 
- // Uncomment the line below when you have completed its corresponding classs for that shape.
+ // Uncomment the line below when you have completed its corresponding class for that shape.
  // The shape will be added to the array and the corresponding menu option will be shown.
   shapeArray[1] = new Sphere();
   shapeArray[2] = new Cylinder();
@@ -299,6 +299,7 @@ int displayMenu(Shape *shapeArrayParam[]) {
 }
 
 /*
+Example outputs:
 Select an object from the menu (enter 7 to quit).
         0. Circle
         1. Sphere
