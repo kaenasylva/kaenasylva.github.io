@@ -51,3 +51,5 @@ public:
 ```
 
 This project developed my understanding of class hierarchies and the process of inheritance across different objects. It also furthered my understanding of C++ and taught me how to handle objects, which has translated to the other coding languages I am familiar with.
+
+You can access the rest of the code [here](https://github.com/kaenasylva/kaenasylva.github.io/blob/main/projects/shape-class-hierarchy.cpp).
