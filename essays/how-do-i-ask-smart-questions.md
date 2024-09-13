@@ -25,14 +25,17 @@ This user is starting their smart question strong with the first thing anybody w
 	3. Where the user suspects the issue is occurring – in a function passed to the `setInterval()` method located within the `useEffect()` method.
 
 The first paragraph provided by this user is a precise and informative description of the problem they are having:
+<hr>
 
-	I am building a simple clock app with React. Currently the countDown() function works, but I would like the user 
-	to be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted 
- 
- 	when the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to 
-  	`paused` inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of 
-   	`paused`, instead of the updated value.>
+<pre>
+I am building a simple clock app with React. Currently the countDown() function works, but I would like the user to 
+be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted when 
+the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to `paused` 
+inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of `paused`, 
+instead of the updated value.
+</pre>
 
+<hr>
 First and foremost, the use of markdown here to emphasize methods and variables serves the purpose of both assisting those who want to assist you, and showing that you have at least a basic understanding of the *things* you’re talking about. This first paragraph breaks down exactly *what* the end goal of the code is – for a user to be able to stop/start the clock by pressing a button. It also describes the specific issue this question revolves around in detail, including the particular state variable, `paused`, and the issue he *knows* he is experiencing – the `countDown()` method is accessing the default value of `paused`, rather than the updated value.
 
 After this brief (and quite helpful) description of what the user provides a snippet of their `Clock()` function, a contained scope that narrows down the amount of code a decided helper will need to review and troubleshoot to help answer the question:
@@ -80,7 +83,8 @@ As you can see from the header, and now this notification, the question was clos
 This question was asked on the day of this essay's conception. It currently has 33 views. This user’s ~~dumb~~ bad smart question provides no indication of a basic understanding of the material they are working with, any specificity regarding a problem, or any attempts to ask for help understanding the code rather than an answer. 
 However, this question did have one comment that asked some questions of their own:
 
-	If we do your assignment will we get the academic credit? You can’t just dump your homework here and expect someone to do it for you. What will you learn from that?
+	If we do your assignment will we get the academic credit? You can’t just dump your homework here and expect someone 
+ 	to do it for you. What will you learn from that?
  
 ## Wrapping It Up
 As it turns out, asking smart questions to receive smart answers is *incredibly* important – especially in a software engineering environment. In a world where open source software exists, collaborations on projects are staples, and errors run rampant, it is crucial that you competently express your ideas (and questions) so that you can get help. Seeing the stark differences in responses invoked by each question should be enough to convince you that in a field where everyone else is smart, you should be too. It takes two forces to create friction, and following suit, it takes two (or perhaps a few) smart people to solve a problem.
