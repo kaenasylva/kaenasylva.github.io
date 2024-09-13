@@ -40,7 +40,7 @@ The first paragraph provided by this user is a precise and informative descripti
 
 First and foremost, the use of markdown here to emphasize methods and variables serves the purpose of both assisting those who want to assist you, and showing that you have at least a basic understanding of the *things* you’re talking about. This first paragraph breaks down exactly *what* the end goal of the code is – for a user to be able to stop/start the clock by pressing a button. It also describes the specific issue this question revolves around in detail, including the particular state variable, `paused`, and the issue he *knows* he is experiencing – the `countDown()` method is accessing the default value of `paused`, rather than the updated value.
 
-After this brief (and quite helpful) description of what the user provides a snippet of their `Clock()` function, a contained scope that narrows down the amount of code a decided helper will need to review and troubleshoot to help answer the question:
+After this brief (and quite helpful) description of the problem, the user provides a snippet of their `Clock()` function, a contained scope that narrows down the amount of code a decided helper will need to review and troubleshoot to help answer the question:
 ```js
 function Clock(){
   const [sec, setSecs] = useState(sessionLength * 60);
