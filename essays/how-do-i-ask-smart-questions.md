@@ -17,7 +17,7 @@ labels:
 ## What Does a Smart Question Look Like?
 Okay, so… I know what a smart question is, but what does it look like? For that, I have an [example](https://stackoverflow.com/questions/72252967/react-cant-access-updated-value-of-state-variable-inside-function-passed-to-se) that I found on the Stack Overflow questions forum. The subject header reads as follows:
 
-> React, can’t access updated value of state variable inside function passed to setInterval() in useEffect()
+<q> React, can’t access updated value of state variable inside function passed to setInterval() in useEffect() </q>
 
 This user is starting their smart question strong with the first thing anybody with an answer is going to see – the header. Within this subject header, useful information is provided to help people better understand the situation they trying to help the user with, including:
 1. This user is working with React.js, or React – a JavasScript library for building user interfaces.
@@ -26,11 +26,13 @@ This user is starting their smart question strong with the first thing anybody w
 
 The first paragraph provided by this user is a precise and informative description of the problem they are having:
 
-> I am building a simple clock app with React. Currently the countDown() function works, but I would like the user to 
-> be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted when 
-> the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to `paused` 
-> inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of `paused`, 
-> instead of the updated value.
+<blockquote>
+I am building a simple clock app with React. Currently the countDown() function works, but I would like the user to 
+be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted when 
+the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to `paused` 
+inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of `paused`, 
+instead of the updated value.
+</blockquote>
 
 First and foremost, the use of markdown here to emphasize methods and variables serves the purpose of both assisting those who want to assist you, and showing that you have at least a basic understanding of the *things* you’re talking about. This first paragraph breaks down exactly *what* the end goal of the code is – for a user to be able to stop/start the clock by pressing a button. It also describes the specific issue this question revolves around in detail, including the particular state variable, `paused`, and the issue he *knows* he is experiencing – the `countDown()` method is accessing the default value of `paused`, rather than the updated value.
 
