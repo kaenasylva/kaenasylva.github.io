@@ -19,7 +19,7 @@ Okay, so… I know what a smart question is, but what does it look like? For tha
 
 <hr>
 <pre> 
-React, can’t access updated value of state variable inside function passed to setInterval() in useEffect()
+  React, can’t access updated value of state variable inside function passed to setInterval() in useEffect()
 </pre>
 <hr>
 
