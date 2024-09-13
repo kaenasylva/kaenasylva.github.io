@@ -26,7 +26,11 @@ This user is starting their smart question strong with the first thing anybody w
 
 The first paragraph provided by this user is a precise and informative description of the problem they are having:
 
-	I am building a simple clock app with React. Currently the countDown() function works, but I would like the user to be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted when the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to `paused` inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of `paused`, instead of the updated value.
+	I am building a simple clock app with React. Currently the countDown() function works, but I would like the user 
+ 	to be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted 
+  	when the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to 
+   	`paused` inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of 
+    	`paused`, instead of the updated value.
 
 First and foremost, the use of markdown here to emphasize methods and variables serves the purpose of both assisting those who want to assist you, and showing that you have at least a basic understanding of the *things* you’re talking about. This first paragraph breaks down exactly *what* the end goal of the code is – for a user to be able to stop/start the clock by pressing a button. It also describes the specific issue this question revolves around in detail, including the particular state variable, `paused`, and the issue he *knows* he is experiencing – the `countDown()` method is accessing the default value of `paused`, rather than the updated value.
 
@@ -69,12 +73,14 @@ There is a list of things you can do to ask a ‘bad’ smart question. More tha
 
 There is one big issue with this header–it’s not a question. It doesn’t even fall within the realm of presenting the description of an issue. Instead, it appears to be the project description for a homework assignment. Upon opening the question, my suspicions were confirmed via some text enclosed in a blue box, which can be seen below.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/closed-forum.JPG">
+<img src="../img/closed-forum.JPG">
 
 As you can see from the header, and now this notification, the question was closed because it needs to be more focused. In other words, this person doesn’t have a specific question, they want someone else to code the solution to their assignment that the user provided the instructions for in the body of their query. In case you’re curious, the instructions are for a code that involves writing an application in python that prompts the user to guess a color based on predetermined colors chosen at random by the computer.
-This question was asked on the day of this essay's conception. It currently has 33 views. This user’s ~~dumb~~ bad smart question provides no indication of a basic understanding of the material they are working with, any specificity regarding a problem, or any attempts to ask for help understanding the code rather than an answer. However, this question did have one comment that asked some questions of their own:
+This question was asked on the day of this essay's conception. It currently has 33 views. This user’s ~~dumb~~ bad smart question provides no indication of a basic understanding of the material they are working with, any specificity regarding a problem, or any attempts to ask for help understanding the code rather than an answer. 
+However, this question did have one comment that asked some questions of their own:
 
-	If we do your assignment will we get the academic credit? You can’t just dump your homework here and expect someone to do it for you. What will you learn from that?
+	If we do your assignment will we get the academic credit? You can’t just dump your homework here and expect 
+ 	someone to do it for you. What will you learn from that?
  
 ## Wrapping It Up
 As it turns out, asking smart questions to receive smart answers is *incredibly* important – especially in a software engineering environment. In a world where open source software exists, collaborations on projects are staples, and errors run rampant, it is crucial that you competently express your ideas (and questions) so that you can get help. Seeing the stark differences in responses invoked by each question should be enough to convince you that in a field where everyone else is smart, you should be too. It takes two forces to create friction, and following suit, it takes two (or perhaps a few) smart people to solve a problem.
