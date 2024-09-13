@@ -18,9 +18,7 @@ labels:
 Okay, so… I know what a smart question is, but what does it look like? For that, I have an [example](https://stackoverflow.com/questions/72252967/react-cant-access-updated-value-of-state-variable-inside-function-passed-to-se) that I found on the Stack Overflow questions forum. The subject header reads as follows:
 
 <hr>
-<pre> 
-  React, can’t access updated value of state variable inside function passed to setInterval() in useEffect()
-</pre>
+<pre> React, can’t access updated value of state variable inside function passed to setInterval() in useEffect() </pre>
 <hr>
 
 This user is starting their smart question strong with the first thing anybody with an answer is going to see – the header. Within this subject header, useful information is provided to help people better understand the situation they trying to help the user with, including:
