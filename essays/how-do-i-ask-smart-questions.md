@@ -18,7 +18,7 @@ labels:
 Okay, so… I know what a smart question is, but what does it look like? For that, I have an [example](https://stackoverflow.com/questions/72252967/react-cant-access-updated-value-of-state-variable-inside-function-passed-to-se) that I found on the Stack Overflow questions forum. The subject header reads as follows:
 
 <hr>
-<pre> React, can’t access updated value of state variable inside function passed to setInterval() in useEffect() </pre>
+<pre>   React, can’t access updated value of state variable inside function passed to setInterval() in useEffect() </pre>
 <hr>
 
 This user is starting their smart question strong with the first thing anybody with an answer is going to see – the header. Within this subject header, useful information is provided to help people better understand the situation they trying to help the user with, including:
@@ -30,11 +30,11 @@ The first paragraph provided by this user is a precise and informative descripti
 
 <hr>
 <pre>
-I am building a simple clock app with React. Currently the countDown() function works, but I would like the user to 
-be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted when 
-the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to `paused` 
-inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of `paused`, 
-instead of the updated value.
+   I am building a simple clock app with React. Currently the countDown() function works, but I would like the user to 
+   be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted when 
+   the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to `paused` 
+   inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of `paused`, 
+   instead of the updated value.
 </pre>
 <hr>
 
@@ -77,7 +77,7 @@ There is a list of things you can do to ask a ‘bad’ smart question. More tha
 
 <hr>
 <pre>
-Python Guessing Game for List of Colors from User [closed]
+   Python Guessing Game for List of Colors from User [closed]
 </pre>
 <hr>
 
@@ -91,8 +91,8 @@ However, this question did have one comment that asked some questions of their o
 
 <hr>
 <pre>
-If we do your assignment will we get the academic credit? You can’t just dump your homework here and expect someone 
-to do it for you. What will you learn from that?
+   If we do your assignment will we get the academic credit? You can’t just dump your homework here and expect someone 
+   to do it for you. What will you learn from that?
 </pre>
 <hr>
 
