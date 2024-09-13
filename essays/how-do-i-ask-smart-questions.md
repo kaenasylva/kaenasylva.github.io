@@ -28,6 +28,7 @@ The first paragraph provided by this user is a precise and informative descripti
 
 	I am building a simple clock app with React. Currently the countDown() function works, but I would like the user 
 	to be able to stop/start the clock by pressing a button. I have a state boolean called `paused` that is inverted 
+ 
  	when the user clicks a button. The trouble is that after the value of `paused` is inverted, the reference to 
   	`paused` inside the `countDown()` function passed to `setInterval()` seems to be accessing the default value of 
    	`paused`, instead of the updated value.>
