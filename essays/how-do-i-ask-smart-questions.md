@@ -71,7 +71,7 @@ There is a list of things you can do to ask a ‘bad’ smart question. More tha
 
 >    "Python Guessing Game for List of Colors from User [closed]"
 
-There is one big issue with this header–it’s not a question. It doesn’t even fall within the realm of presenting the description of an issue. Instead, it appears to be the project description for a homework assignment. Upon opening the question, my suspicions were confirmed via some text enclosed in a blue box, which can be seen below.
+There is one big issue with this header – it’s not a question. It doesn’t even fall within the realm of presenting the description of an issue. Instead, it appears to be the project description for a homework assignment. Upon opening the question, my suspicions were confirmed via some text enclosed in a blue box, which can be seen below.
 
 <img src="../img/closed-forum.JPG">
 
