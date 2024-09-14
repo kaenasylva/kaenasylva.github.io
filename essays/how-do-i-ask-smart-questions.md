@@ -20,7 +20,7 @@ Okay, so… I know what a smart question is, but what does it look like? For tha
 >    "React, can’t access updated value of state variable inside function passed to `setInterval()` in `useEffect()`"
 
 This user is starting their smart question strong with the first thing anybody with an answer is going to see – the header. Within this subject header, useful information is provided to help people better understand the situation they trying to help the user with, including:
-1. This user is working with React.js, or React – a JavasScript library for building user interfaces.
+1. This user is working with React.js, or React – a JavaScript library for building user interfaces.
 2. The specific issue they are having – the updated value of a state variable within a function isn’t being accessed.
 3. Where the user suspects the issue is occurring – in a function passed to the `setInterval()` method located within the `useEffect()` method.
 
