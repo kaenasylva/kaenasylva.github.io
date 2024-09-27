@@ -24,6 +24,7 @@ The past two assignments that I’ve completed were practice WODs (about WODs �
 5. Invoke `npm install` to install ESLint.
 6. Implement a code that solves (answers) the question, make sure ESLint has no problems with your code, and commit the finished program to GitHub.
 7. Stop your timer.
+
 ## Setting Up ESLint
 Now, believe it or not – installing ESLint and using it to adhere to coding standards is *by far* the most painful part of both WODs. One of the pains of the setup for me (on Windows 10) involved installing… a lot of different things. I ran into several issues during the setup, which resulted in some error messages about incompatible versions and installations that are no longer supported. Anyway, I was able to get ESLint to work. More or less.
 
