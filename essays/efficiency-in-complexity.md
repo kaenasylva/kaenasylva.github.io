@@ -13,7 +13,7 @@ labels:
 ---
 
 ## What is a UI Framework?
-<p>A UI (User Interface) framework is a pre-built set of graphical user interface (GUI) elements, like buttons, checkboxes, dropdowns, etc., that developers can use to build the front end of web or mobile applications. Some of these frameworks, such as [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/), are considered by some to be overcomplicated – the preferred alternative being raw HTML and CSS.</p>
+<p>A UI (User Interface) framework is a pre-built set of graphical user interface (GUI) elements, like buttons, checkboxes, dropdowns, etc., that developers can use to build the front end of web or mobile applications. Some of these frameworks, such as <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/">Bootstrap 5</a>, are considered by some to be overcomplicated – the preferred alternative being raw HTML and CSS.</p>
 
 <p>Last week, I learned HTML and CSS on the fly over the course of a few days. This week, I learned to use Bootstrap 5 to add to my front-end development abilities. Learning to use a UI, like Bootstrap 5, can sometimes feel as difficult as learning a new programming language – especially relative to HTML. With that in mind, I'd feel comfortable saying that UI frameworks are an incredibly useful tool for enhancing software development.</p>
 
