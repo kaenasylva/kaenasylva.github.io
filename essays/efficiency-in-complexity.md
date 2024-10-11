@@ -13,7 +13,7 @@ labels:
 ---
 
 ## What is a UI Framework?
-<p>A UI (User Interface) framework is a pre-built set of graphical user interface (GUI) elements, like buttons, checkboxes, dropdowns, etc., that developers can use to build the front end of web or mobile applications. Some of these frameworks, such as [Bootstrap 5](https://getbootstrap.com/docs/5.0/getting-started/introduction/), are considered by some to be overcomplicated – the preferred alternative being raw HTML and CSS.</p>
+<p>A UI (User Interface) framework is a pre-built set of graphical user interface (GUI) elements, like buttons, checkboxes, dropdowns, etc., that developers can use to build the front end of web or mobile applications. Some of these frameworks, such as [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/), are considered by some to be overcomplicated – the preferred alternative being raw HTML and CSS.</p>
 
 <p>Last week, I learned HTML and CSS on the fly over the course of a few days. This week, I learned to use Bootstrap 5 to add to my front-end development abilities. Learning to use a UI, like Bootstrap 5, can sometimes feel as difficult as learning a new programming language – especially relative to HTML. With that in mind, I'd feel comfortable saying that UI frameworks are an incredibly useful tool for enhancing software development.</p>
 
@@ -32,7 +32,7 @@ There are a few key reasons to consider using Bootstrap 5 in tandem with HTML an
 2. **Speed of Development**: Building a website from scratch with raw HTML and CSS is time-consuming. Doubly so if your goal is to achieve responsiveness and/or a modern design aesthetic. Bootstrap 5's pre-designed components can be integrated very quickly and easily. Bootstrap's grid system also follows a mobile-first design, which eliminates the need to build responsive layouts from scratch.
 3. **Responsive Design**: Like I mentioned earlier, Bootstrap's grid system (one of its core features) offers a responsive, fluid grid that scales based on screen size. This is super helpful. This means that by default, layouts created with Bootstrap can be adapted to various devices (desktop, tablet, mobile). In today's web development landscape, tools like these should not be overlooked.
 4. **Customizability**: Bootstrap 5 is *highly* customizable. At first glance, the built-in logos and formatting might seem rigid and limiting as far as the style of your website goes, but this is not the case. Developers can override default styles with CSS to achieve a unique look while still benefiting from Bootstrap's underlying structure.
-5. **Active Development and Community Support**: Last but not least, Bootstrap 5 is an open-source project with a huge community. This means that you can find countless resources – documentation, tutorials, and forums – available to help troubleshoot and learn. The framework is also actively maintained, which means regular updates, bug fixes, and improvements.
+5. **Active Development and Community Support**: Last but not least, Bootstrap 5 is an open-source project with a huge community. This means that you can find countless resources – documentation, tutorials, and forums – available to help you troubleshoot and learn. The framework is also actively maintained, which means regular updates, bug fixes, and improvements.
 
 ##  Why Not Raw HTML and CSS?
 Sure, HTML and CSS are the foundation of web development, but using them without a framework comes with a few challenges:
