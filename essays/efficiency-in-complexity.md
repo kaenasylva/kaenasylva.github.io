@@ -22,9 +22,9 @@ labels:
 
 Check this out! The below images are [top] a screenshot of [HiClimb](https://www.hawaiiclimb.com/)'s official website and [bottom] my attempt at recreating it using Bootstrap 5, along with HTML and CSS.
 
-<img src="../img/hiclimbhome.PNG" alt="HiClimb Home Page" width="600">
+<img src="../img/hiclimbhome.PNG" alt="HiClimb Home Page" width="1000">
 
-<img src="../img/hiclimbclone.PNG" alt="HiClimb Clone Page" width="600">
+<img src="../img/hiclimbclone.PNG" alt="HiClimb Clone Page" width="1000">
 
 ## So, Bootstrap 5?
 There are a few key reasons to consider using Bootstrap 5 in tandem with HTML and CSS:
