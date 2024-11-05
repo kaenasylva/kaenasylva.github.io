@@ -10,7 +10,6 @@ labels:
   - Nextjs
 ---
 
-## Overview
 ### The Problem
 Students at UH Mānoa often find it difficult to stay updated on campus events, activities, and workshops that align with their academic interests or social preferences. Despite the availability of various events (e.g., club meetings, guest lectures, career fairs, etc.), students often miss them due to a lack of centralized information. Additionally, discovering events that match personal preferences (like specific academic fields, hobbies, or social causes) is time-consuming and inefficient.
 
