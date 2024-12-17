@@ -59,7 +59,7 @@ Displays the point or level system, solo and group rankings, and details of avai
 
 <img src="/img/ft-achievement-page.png" alt="Game Mechanics Page" width="1000" />
 
-## Catastrophe
+### Catastrophe
 
 I never ended up getting to finish that last page. We ended up encountering several issues, actually. By the time the second milestone came around, we hadn't finished much of the back-end functionality that we were hoping to. This could be complimented to procrastination and setting goals that were too large, which led to more procrastination... you get the idea. 
 
