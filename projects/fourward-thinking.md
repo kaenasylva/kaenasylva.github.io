@@ -42,22 +42,22 @@ My responsibilities on this project encompassed creating initial designs for the
 **Landing Page**:
 Overview of the app, encourages users to search for active study sessions.
 
-<img src="/img/ft-landing-page.png" alt="Landing Page" width="400" />
+<img src="/img/ft-landing-page.png" alt="Landing Page" width="800" />
 
 **Calendar Page**:
 Displays upcoming and past study sessions. Users can filter by course, topic, and time. Shows both group study sessions and solo sessions.
 
-<img src="/img/ft-calendar-page.png" alt="Calendar Page" width="400" />
+<img src="/img/ft-calendar-page.png" alt="Calendar Page" width="800" />
 
 **Courses Page**:
 Where users can view a list of all available ICS courses, as well as those who are taking or have taken said courses.
 
-<img src="/img/ft-courses-page.png" alt="Courses Page" width="400" />
+<img src="/img/ft-courses-page.png" alt="Courses Page" width="800" />
 
 **Game Mechanics Page**:
 Displays the point or level system, solo and group rankings, and details of available rewards.
 
-<img src="/img/ft-achievements-page.png" alt="Game Mechanics Page" width="400" />
+<img src="/img/ft-achievements-page.png" alt="Game Mechanics Page" width="800" />
 
 ## Catastrophe
 
