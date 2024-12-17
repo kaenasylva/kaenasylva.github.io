@@ -57,7 +57,7 @@ Where users can view a list of all available ICS courses, as well as those who a
 **Game Mechanics Page**:
 Displays the point or level system, solo and group rankings, and details of available rewards.
 
-<img src="/img/ft-achievements-page.png" alt="Game Mechanics Page" width="1000" />
+<img src="/img/ft-achievement-page.png" alt="Game Mechanics Page" width="1000" />
 
 ## Catastrophe
 
