@@ -11,7 +11,7 @@ labels:
   - PostgreSQL
   - Vercel
   - Team Project
-summary: "A "study buddy" project I worked on for ICS 314."
+summary: "A 'study buddy' project I worked on for ICS 314."
 ---
 
 ## Overview
