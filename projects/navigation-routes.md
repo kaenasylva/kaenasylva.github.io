@@ -89,4 +89,4 @@ def share_skills(graph, start_id, current_time):
 
 This was a fun project to work on! I learned important skills required for working with others on a group project. I also built work habits that led me to success with ICS 311 group projects for the rest of the semester. This assignment helped me to better understand directed, weighted graphs and shortest path algorithms.
 
-If you're interested in seeing the other problems and my teammates' solutions to them, you can find that [here](https://docs.google.com/document/d/1hHK9oWiJMnbDiDMGU4mjFEk2Y_D0GzIo2nKjpR88JTM/edit?usp=sharing).
+If you're interested in seeing the other problems and my teammates' solutions to them, you can find that stuff [here](https://docs.google.com/document/d/1hHK9oWiJMnbDiDMGU4mjFEk2Y_D0GzIo2nKjpR88JTM/edit?usp=sharing).
