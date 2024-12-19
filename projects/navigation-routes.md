@@ -10,14 +10,14 @@ labels:
   - Python
   - Shortest Paths
   - Team Project
-summary: "A graph-pathing team project I worked on for ICS 311."
+summary: "A graph-pathing team project that I worked on for ICS 311."
 ---
 
 ## Overview
 
 This assignment asked for three people to work on an assignment inspired by the history of Polynesian Navigation. The overview was as follows...
 
->The Polynesian Triangle is the collection of islands within the triangle of Hawaii, Rapanui (Easter Island) and Aotearoa (New Zealand). Historically, canoes have traveled between the islands within the triangle and most likely beyond. This assignment is to plan a comprehensive collection of routes to distribute useful food and items, to circulate visitors amongst the sea of  islands, and identify ways to provide assistance between islands when necessary.
+> The Polynesian Triangle is the collection of islands within the triangle of Hawaii, Rapanui (Easter Island) and Aotearoa (New Zealand). Historically, canoes have traveled between the islands within the triangle and most likely beyond. This assignment is to plan a comprehensive collection of routes to distribute useful food and items, to circulate visitors amongst the sea of  islands, and identify ways to provide assistance between islands when necessary.
 
 Ultimately, it asked for our group to (given a collection of islands, their populations, and travel times between them) describe different algorithms to share resources and move people across the sea of islands.
 
